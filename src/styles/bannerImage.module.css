@@ -1,0 +1,13 @@
+.imegePersonal{
+    width: 370px;
+    height: 446px;
+    border-radius: 20px;
+}
+
+@media (max-width: 640px) { 
+    .imegePersonal{
+        width: 384px;
+        height: 400px;
+        border-radius: 20px;
+    }
+}
