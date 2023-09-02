@@ -84,9 +84,9 @@ const BannerText = () => {
         <article className="m-4 md:m-10">
           <div>
             <Image
-              src="https://res.cloudinary.com/dk9ktxdpj/image/upload/v1691068761/Jhonier-Mosquera-_15_nu7idi.jpg"
+              src="https://res.cloudinary.com/dk9ktxdpj/image/upload/v1693660680/bijhqo3kbdj3m7lkpckr.jpg"
               alt="Me"
-              width={1000}
+              width={2048}
               height={0}
               className={style.imegePersonal}
               priority

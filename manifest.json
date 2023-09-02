@@ -2,13 +2,13 @@
   "name": "WebStack portafolio web",
   "short_name": "portafolio web",
   "description": "Conoceras mis habilidades en el mundo del TI",
-  "start_url": "/",
+  "start_url": "https://web-stack-lac.vercel.app/",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#1E1B1E",
   "icons": [
     {
-      "src": "/favicon.ico",
-      "sizes": "any",
+      "src": "/public/favicon.ico",
+      "sizes": "16X16",
       "type": "image/x-icon"
     }
   ]
