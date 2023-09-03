@@ -13,14 +13,14 @@ const Nav = () => {
         </div>
 
         <div className="py-3 px-3 flex items-center justify-between">
-          <DevToLogo size={32} className="text-AAAA"/>
+          <DevToLogo size={32} className="text-AAAA" />
         </div>
       </div>
 
       <div>
         <a
           className="bg-button-small text-white px-5 py-3 rounded-[30px] mr-3 md:mr-0"
-          href="https://drive.google.com/file/d/1ZWkcGMPeMBt2ZdfhKPBgmORo86T2Q_5d/view?usp=sharing"
+          href="https://drive.google.com/file/d/1OozC31o0Wn2MXZhDK74FtPkYMbqka0MU/view?usp=sharing"
           download
         >
           CV/HV
