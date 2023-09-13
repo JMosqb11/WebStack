@@ -20,7 +20,7 @@ const Nav = () => {
       <div>
         <a
           className="bg-button-small text-white px-5 py-3 rounded-[30px] mr-3 md:mr-0"
-          href="https://drive.google.com/file/d/1OozC31o0Wn2MXZhDK74FtPkYMbqka0MU/view?usp=sharing"
+          href="https://drive.google.com/file/d/1S17TxAg_M2qUzAmeWFyKRi5S0JseiMp6/view?usp=sharing"
           download
         >
           CV/HV
